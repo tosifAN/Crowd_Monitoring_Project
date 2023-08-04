@@ -15,7 +15,7 @@ trajectories = []
 frame1_idx = 0
 
 
-cap = cv2.VideoCapture('tryk.mp4')
+cap = cv2.VideoCapture('Video_path')
 model = YOLO('yolov8n-pose.pt')  
 fgbg = cv2.createBackgroundSubtractorMOG2()
 ok, frame2 = cap.read()
