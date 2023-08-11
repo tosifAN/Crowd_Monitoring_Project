@@ -52,3 +52,13 @@ Before using the Anomaly Detection System, ensure the following prerequisites ar
 Download link and Information is available in Offical Github link of ultralytics
 `https://github.com/ultralytics/ultralytics/tree/main`
 
+
+##REFERENCES
+•	Bouwmans, Thierry, et al. "Robust optical flow estimation and its applications: a survey." Image and Vision Computing 31.3 (2013): 263-288.
+•	Shi, Jianbo, and Carlo Tomasi. "Good features to track." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 1994.
+•	Wu, Jianqiang, et al. "Robust crowd density estimation with a point-wise head-shoulder detector." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2016.
+•	Ultralytics. "YOLOv8-Pose." GitHub Repository. Available online:(Link Provided In Model Info)
+•	Zivkovic, Zoran. "Improved adaptive Gaussian mixture model for background subtraction." Proceedings of the International Conference Pattern Recognition. 2004.
+•	Kohout, Josef, et al. "Crowd surveillance using multiple PTZ cameras on a mobile robot." Robotics and Autonomous Systems 107 (2018): 73-87.
+•	Zhang, Xiaoyu, et al. "A crowd monitoring system for metro stations." Journal of Visual Communication and Image Representation 64 (2019): 102619.
+
