@@ -48,5 +48,7 @@ Before using the Anomaly Detection System, ensure the following prerequisites ar
 2. Configure input parameters, including file paths and thresholds, to tailor the analysis.
 3. Observe the system process the input data and generate comprehensive anomaly reports.
 
-
+## YOLOv8 Pose Model Info
+Download link and Information is available in Offical Github link of ultralytics
+`https://github.com/ultralytics/ultralytics/tree/main`
 
