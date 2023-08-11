@@ -33,24 +33,20 @@ Before using the Anomaly Detection System, ensure the following prerequisites ar
 
 - Python (>=3.6)
 - NumPy
-- pandas
 - OpenCV (cv2)
 - YOLOv8 pose model (download and setup instructions provided)
 
 ## Installation
 
 1. Clone the repository: `git clone https://github.com/tosifAN/Crowd_Monitoring_Project.git`
-2. Install required Python libraries: `pip install numpy pandas opencv-python`
+2. Install required Python libraries: `pip install numpy opencv-python`
 3. Obtain the YOLOv8 pose model (follow detailed instructions in the repository).
 
 ## Usage
 
-1. Run the `main.py` script to initiate the anomaly detection process.
+1. Run the `working.py` script to initiate the anomaly detection process.
 2. Configure input parameters, including file paths and thresholds, to tailor the analysis.
 3. Observe the system process the input data and generate comprehensive anomaly reports.
 
-## Example
 
-```bash
-python main.py --input video.mp4 --threshold 0.5
 
