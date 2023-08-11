@@ -6,7 +6,7 @@ This is the code to monitor crowd in various areas.
 <h1 align="center">Anomaly Detection in Crowded Scenes using Python</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License">
+  <img src="[https://img.shields.io/badge/license-MIT-blue.svg](https://designlooter.com/images/python-svg-1.png)" alt="License">
 </p>
 
 <p align="center">
