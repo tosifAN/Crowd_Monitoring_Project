@@ -39,7 +39,7 @@ Before using the Anomaly Detection System, ensure the following prerequisites ar
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/your-repo.git`
+1. Clone the repository: `git clone https://github.com/tosifAN/Crowd_Monitoring_Project.git`
 2. Install required Python libraries: `pip install numpy pandas opencv-python`
 3. Obtain the YOLOv8 pose model (follow detailed instructions in the repository).
 
